@@ -3,3 +3,4 @@ h1 {font-family: Verdana; font-size: 50px; font-weight: normal; color: White; te
 .download {font-family: Verdana; color: Aquamarine; font-size: 16px;}
 h2 {font-family: Verdana; font-weight: 300; font-size: 42px; color: white;}
 .description {font-family: Verdana; font-size: 21px; color: Gray;}
+.copyright {text-align: Right; color: gray; font-size: 21px; font-family: Verdana;}
